@@ -1,13 +1,24 @@
-### Servidor Web + Express + HBS + Heroku
+### Servidor Web
 
-Recuerda instalar las dependencias:
+# Utilizamos:
+
+
+• Express
+
+• HBS
+
+• Heroku
+
+Recuerda instalar las dependencias con el comando:
 
 ```
 npm install
 ```
 
-Para ejecutar:
+## Ejecutar 🚀 
 
 ```
 npm start
 ```
+
+Ahora puedes utilizar la aplicación 
